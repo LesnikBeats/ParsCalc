@@ -1,0 +1,6 @@
+﻿  Calculator.cpp
+C:\Users\user\Desktop\Laba_Calculator\ParserCalculator\Itog\Calculator.h(39,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Laba_Calculator\ParserCalculator\Itog\Calculator.h(132,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Laba_Calculator\ParserCalculator\Itog\Calculator.h(155,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Laba_Calculator\ParserCalculator\Itog\Calculator.h(151): warning C4715: Calculator::legalStart: значение возвращается не при всех путях выполнения
+  Itog.vcxproj -> C:\Users\user\Desktop\Laba_Calculator\ParserCalculator\Itog\x64\Debug\Itog.exe
